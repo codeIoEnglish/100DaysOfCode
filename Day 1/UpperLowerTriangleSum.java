@@ -1,7 +1,7 @@
     import java.io.*;
     import java.util.*;
 
-   public class GFG
+   public class UpperLowerTriangleSum
     {
         public static void main(String args[])throws IOException
         {
