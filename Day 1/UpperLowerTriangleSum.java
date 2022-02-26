@@ -23,7 +23,7 @@
                     System.out.print(val+" "); 
                 System.out.println();
             }
-            sc.close();
+            
         }
     }
     
